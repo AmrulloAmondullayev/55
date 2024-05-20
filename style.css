@@ -108,7 +108,7 @@
   text-align: center;
 }
 
-@media (max-width: 368px) {
+@media (max-width: 480px) {
   .header__menu {
     display: none;
   }
