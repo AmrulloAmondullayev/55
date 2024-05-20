@@ -137,7 +137,7 @@
     max-width: 616px;
     margin: 0 auto;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 30px;
   }
 
   .hero__text {
@@ -157,7 +157,7 @@
   .hero__result {
     display: block;
     padding-left: 43px;
-    padding-top: 5px;
+    margin-top: 200px;
   }
 
   .review__text {
